@@ -1,0 +1,58 @@
+.navbar{
+  background:#2fff00;
+
+}
+
+.title{
+  color:#031000;
+  font-size:30px;
+  text-align:left;
+
+
+}
+body:{
+  background:black;
+}
+.calculator_container{
+background:black !important;
+padding-bottom:20%;
+}
+.stick-font{
+  font-family: 'Stick No Bills', sans-serif;
+}
+.result_text{
+  color:#2fff00;
+  font-size:35px;
+  text-align:left;
+}
+.result_box{
+  border:2px solid #2fff00;
+}
+
+.calculator_button{
+  border:2px solid #2fff00;
+  color:#2fff00;
+  background:black;
+  text-align:center;
+  padding:4%;
+  font-size:30px;
+  transition:all .3s ease-in;
+
+}
+.calculator_button:hover{
+  border-color: #031000 !important;
+  background:#2fff00  !important;
+  color:#031000  !important;
+
+  transition:all .3s ease-in;
+}
+
+
+.calculator{
+  background:black;
+  padding:5%;
+}
+
+.calculator_container{
+  background:white;
+}
